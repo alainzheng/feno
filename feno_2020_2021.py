@@ -5,7 +5,7 @@ Created on Tue Nov 10 10:03:32 2020
 Airway NO Diffusion in Asthma - Role in the Pulmonary function and Bronchial Responsiveness 
 Article authors: PHILIP E. SILKOFF, JIMMIE T. SYLVESTER, NOE ZAMEL, and SOLBERT PERMUTT
 
-Code Author: Mathieu BIAVA, Philippe QUESTEL, Alain Kai Rui Zheng 
+Code Author: Mathieu BIAVA, Philippe QUESTEL, Alain Kai Rui ZHENG 
 
 """
 
@@ -289,7 +289,7 @@ def points2_linear_regression():
                                                                         lrParamsSem[1]))
     print('-'*30)
     
-    """
+    
     ##### FIGURE 4bis
 
     # raw data
@@ -325,7 +325,7 @@ def points2_linear_regression():
     ax.legend()
     fig.savefig('Figure4bis.png')
     plt.show()
-    """
+    
     
     
     
